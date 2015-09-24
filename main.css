@@ -11,20 +11,21 @@ img {
 
 li {
   display: inline-block;
-  border: 2px solid black;
+  /*border: 2px solid black;*/
 }
 
 .company {
   text-align: center;
-  width: 200px;
+  width: 135px;
   display: inline-block;
-  border: 2px solid black;
+  color: #444B51;
+  /*border: 2px solid black;*/
 }
 
 a {
   display: inline-block;
   width: 100px;
-  border: 2px solid black;
+  /*border: 2px solid black;*/
 }
 
 .home {
@@ -33,9 +34,26 @@ a {
 
 /*Background and text*/
 
+.simple {
+  position: absolute;
+  font-size: 52px;
+  top: 179px;
+  right: 475px;
+}
+
+.trybefore {
+  position: absolute;
+  font-size: 52px;
+  top: 231px;
+  right: 411px;
+}
+
 .treeback {
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   margin-top: 9px;
   background-image: url(images/background.jpg);
   width: 1280px;
+  height: 415px;
+  color: white;
+  position: relative;
 }
