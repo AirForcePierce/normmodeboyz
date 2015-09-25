@@ -81,7 +81,7 @@ a {
 
 .poptions {
   /*border: 2px solid black;*/
-  height: 500px;
+  height: 650px;
   width: 1350px;
   display:inline-block;
   position: relative;
@@ -117,58 +117,64 @@ a {
 }
 .text1{
   position: absolute;
-  width: 300px;
+  width: 298px;
   height: 45px;
-  border: 1px solid black;
+  border: 1px solid #E7E7E7;
   bottom: 391px;
   left: 192px;
+  background-color: #F7F7F7;
 }
 
 .text2 {
   position: absolute;
-  width: 300px;
+  width: 298px;
   height: 45px;
-  border: 1px solid black;
+  border: 1px solid #E7E7E7;
   bottom: 345px;
   left: 192px;
+  background-color: #F7F7F7;
   
 }
 
 .text3 {
   position: absolute;
-  width: 300px;
+  width: 298px;
   height: 45px;
-  border: 1px solid black;
+  border: 1px solid #E7E7E7;
   bottom: 299px;
   left: 192px;
+  background-color: #F7F7F7;
 
 }
 
 .text4 {
   position: absolute;
-  width: 300px;
+  width: 298px;
   height: 45px;
-  border: 1px solid black;
+  border: 1px solid #E7E7E7;
   bottom: 253px;
   left: 192px;
+  background-color: #F7F7F7;
 }
 
 .text5 {
   position: absolute;
-  width: 300px;
+  width: 298px;
   height: 45px;
-  border: 1px solid black;
+  border: 1px solid #E7E7E7;
   bottom: 207px;
   left: 192px;
+  background-color: #F7F7F7;
 }
 
 .text6 {
   position: absolute;
-  width: 300px;
+  width: 298px;
   height: 45px;
-  border: 1px solid black;
+  border: 1px solid #E7E7E7;
   bottom: 161px;
   left: 192px;
+  background-color: #F7F7F7;
 
 }
 
