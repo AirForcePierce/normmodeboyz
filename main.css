@@ -115,7 +115,43 @@ a {
   top: 12px;
   right: 220px;
 }
-.text1{
+
+ul {
+  width: 298px;
+}
+
+.firstlist {
+  position: absolute;
+  bottom: 170px;
+  left: 152px;
+
+}
+
+.secondlist {
+  position: absolute;
+  bottom: 170px;
+  left: 470px;
+
+}
+
+.thirdlist {
+  position: absolute;
+  bottom: 170px;
+  left: 790px;
+
+}
+
+li {
+  width: 298px;
+  height: 30px;
+  border: 1px solid #E7E7E7;
+  background-color: #F7F7F7;
+  text-align: center;
+  padding-top: 10px;
+  color: #546065;
+
+}
+/*.text1{
   position: absolute;
   width: 298px;
   height: 45px;
@@ -176,12 +212,4 @@ a {
   left: 192px;
   background-color: #F7F7F7;
 
-}
-
-.text7 {
-
-}
-
-.text8 {
-
-}
+}*/
