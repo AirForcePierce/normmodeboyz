@@ -66,10 +66,116 @@ a {
 .treeback {
   /*border: 1px solid black;*/
   margin-top: 7px;
+  margin-bottom: 25px;
   background-image: url(images/background.jpg);
   width: 1280px;
   height: 414px;
   color: white;
   position: relative;
   text-shadow: 1px 1px 2px black;
+  display: inline-block;
+}
+
+/*Purchasing options elements*/
+
+
+.poptions {
+  /*border: 2px solid black;*/
+  height: 500px;
+  width: 1350px;
+  display:inline-block;
+  position: relative;
+}
+
+.green {
+  background-color: #618C52;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 12px;
+  right: 858px;
+
+}
+
+.blue {
+  background-color: #2D4D83;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 12px;
+  right: 540px;
+
+}
+
+.black {
+  background-color: #101010;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 12px;
+  right: 220px;
+}
+.text1{
+  position: absolute;
+  width: 300px;
+  height: 45px;
+  border: 1px solid black;
+  bottom: 391px;
+  left: 192px;
+}
+
+.text2 {
+  position: absolute;
+  width: 300px;
+  height: 45px;
+  border: 1px solid black;
+  bottom: 345px;
+  left: 192px;
+  
+}
+
+.text3 {
+  position: absolute;
+  width: 300px;
+  height: 45px;
+  border: 1px solid black;
+  bottom: 299px;
+  left: 192px;
+
+}
+
+.text4 {
+  position: absolute;
+  width: 300px;
+  height: 45px;
+  border: 1px solid black;
+  bottom: 253px;
+  left: 192px;
+}
+
+.text5 {
+  position: absolute;
+  width: 300px;
+  height: 45px;
+  border: 1px solid black;
+  bottom: 207px;
+  left: 192px;
+}
+
+.text6 {
+  position: absolute;
+  width: 300px;
+  height: 45px;
+  border: 1px solid black;
+  bottom: 161px;
+  left: 192px;
+
+}
+
+.text7 {
+
+}
+
+.text8 {
+
 }
