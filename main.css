@@ -306,68 +306,85 @@ h3 {
 }
 
 p {
-  width: 500px;
+  width: 430px;
   display: inline-block;
+  color: #546065;
 }
 
 .paragraphs {
   height: 500px;
+  position: relative;
 }
 
 .paraone {
   position: absolute;
-  top: 100px
-  left: 100px;
-  border: 1px solid black;
+  top: 30px;
+  left: 200px;
+  /*border: 1px solid black;*/
 
 }
 
 .paratwo {
   position: absolute;
-  top: 100px
-  left: 100px;
-  border: 1px solid green;
+  top: 30px;
+  left: 680px;
+  /*border: 1px solid green;*/
   
 }
 
 .parathree {
   position: absolute;
-  top: 100px
-  left: 100px;
-  border: 1px solid blue;  
+  top: 220px;
+  left: 200px;
+  /*border: 1px solid blue; */ 
 }
 
 .parafour {
   position: absolute;
-  top: 100px
-  left: 100px;
-  border: 1px solid red;  
+  top: 220px;
+  left: 680px;
+  /*border: 1px solid red; */ 
 }
 
 .hone {
   position: absolute;
-  top: 100px
-  left: 100px;
-  border: 1px solid black;
+  top: -10px;
+  left: 200px;
+  /*border: 1px solid black;*/
 }
 
 .htwo {
   position: absolute;
-  top: 100px
-  left: 100px;
-  border: 1px solid green;  
+  top: -10px;
+  left: 680px;
+  /*border: 1px solid green;*/  
 }
 
 .hthree {
   position: absolute;
-  top: 100px
-  left: 100px;
-  border: 1px solid blue;  
+  top: 170px;
+  left: 200px;
+  /*border: 1px solid blue;*/  
 }
 
 .hfour {
   position: absolute;
-  top: 100px
-  left: 100px;
-  border: 1px solid red; 
+  top: 170px;
+  left: 680px;
+  /*border: 1px solid red;*/ 
+}
+
+/*FOOTER*/
+
+.foot {
+  background-color: black;
+  color: gray;
+  text-align: center;
+  width: 1280px;
+  height: 40px;
+  padding-top: 35px;
+}
+
+.white {
+  color: white;
 }
