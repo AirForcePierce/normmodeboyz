@@ -7,12 +7,7 @@ img {
   max-width: 100%
 }
 
-/*Elements for top menu and logo*/
-
-li {
-  display: inline-block;
-  /*border: 2px solid black;*/
-}
+/*TOP PAGE*/
 
 .company {
   margin-left: 21px;
@@ -47,7 +42,7 @@ a {
   color: #575D63;
 }
 
-/*Background and text*/
+/*Background and text for TOP PAGE*/
 
 .simple {
   position: absolute;
@@ -76,7 +71,7 @@ a {
   display: inline-block;
 }
 
-/*Purchasing options elements*/
+/*PURCHASING OPTIONS AND INPUTS*/
 
 
 .poptions {
@@ -149,6 +144,7 @@ li {
   text-align: center;
   padding-top: 10px;
   color: #546065;
+  display: inline-block;
 }
 
 input {
@@ -300,4 +296,78 @@ input {
   left: 881px;
   color: #878787;
   font-family: 'Lato', sans-serif;
+}
+
+/*H ELEMENTS AND PARAGRAPHS*/
+
+h3 {
+  font-weight: bold;
+  display: inline-block;
+}
+
+p {
+  width: 500px;
+  display: inline-block;
+}
+
+.paragraphs {
+  height: 500px;
+}
+
+.paraone {
+  position: absolute;
+  top: 100px
+  left: 100px;
+  border: 1px solid black;
+
+}
+
+.paratwo {
+  position: absolute;
+  top: 100px
+  left: 100px;
+  border: 1px solid green;
+  
+}
+
+.parathree {
+  position: absolute;
+  top: 100px
+  left: 100px;
+  border: 1px solid blue;  
+}
+
+.parafour {
+  position: absolute;
+  top: 100px
+  left: 100px;
+  border: 1px solid red;  
+}
+
+.hone {
+  position: absolute;
+  top: 100px
+  left: 100px;
+  border: 1px solid black;
+}
+
+.htwo {
+  position: absolute;
+  top: 100px
+  left: 100px;
+  border: 1px solid green;  
+}
+
+.hthree {
+  position: absolute;
+  top: 100px
+  left: 100px;
+  border: 1px solid blue;  
+}
+
+.hfour {
+  position: absolute;
+  top: 100px
+  left: 100px;
+  border: 1px solid red; 
 }
