@@ -1,3 +1,3 @@
-####Normal boys!
+####Simple purchasing page clone!
 
 
